@@ -5,3 +5,5 @@ Database using CSV files from
 - and wikidata, using sparql parsing (https://w.wiki/EwBR) or https://query.wikidata.org/
 
 database hosted on mySQL, modified using Navicat Premium Lite (#broke)
+
+![quickDBD diagram of db structure](QuickDBD-PLEASE.png)
