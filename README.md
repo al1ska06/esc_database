@@ -6,4 +6,4 @@ Database using CSV files from
 
 database hosted on mySQL, modified using Navicat Premium Lite (#broke)
 
-![quickDBD diagram of db structure](QuickDBD-PLEASE(1).png)
+![quickDBD diagram of db structure](quickDBD.png)
